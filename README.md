@@ -1,6 +1,6 @@
 # silly-markdown-parser
 
-A *markdown* parser written entirely using regular expressions, hence the name; *Silly-Markdown-Parser* 8-)
+A *markdown* parser written entirely using regular expressions, hence the name; *Silly-Markdown-Parser* :sunglasses:
 
 ### Features:
 - [x] Headers
